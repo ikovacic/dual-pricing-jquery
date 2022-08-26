@@ -2,7 +2,7 @@
 
 Hrvatska uvodi EURO kao službenu valutu od 1.1.2023. Od 5.9.2022. do 31.12.2023. potrebno je dvojno iskazivati cijene po fiksnom tečaju 7,5345.
 
-Ovaj komadić JavaScripta radi na bilo kojoj plaformi na način da uzima bilo koju cijenu u kunama i zatim ju pretvara u EURO, i ispisuje uz već postojeću cijenu.
+Ovaj komadić JavaScripta radi na **bilo kojoj plaformi (Shopify, Magento 1, Magento 2, WooCommerce, Prestashop, ...)** na način da uzima bilo koju cijenu u kunama i zatim ju pretvara u EURO, i ispisuje uz već postojeću cijenu.
 
 ```
 var applause = applause || {};
